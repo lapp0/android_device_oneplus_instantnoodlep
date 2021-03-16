@@ -28,7 +28,7 @@ PRODUCT_NAME := lineage_instantnoodlep
 PRODUCT_DEVICE := instantnoodlep
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := IN2023
+PRODUCT_MODEL := IN2025
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
